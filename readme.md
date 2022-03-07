@@ -100,3 +100,9 @@ function deletarAluno($cod)
     }
 }
 ~~~
+
+## Iniciando o Git no projeto e o enviando par ao GitHub.
+![](https://media.discordapp.net/attachments/938167867017396295/950428337996714034/unknown.png?width=312&height=428)
+![](https://media.discordapp.net/attachments/938167867017396295/950428505584328774/unknown.png)
+### Repositório no GitHub.
+![GitHub](https://media.discordapp.net/attachments/938167867017396295/950426722816364614/unknown.png)
